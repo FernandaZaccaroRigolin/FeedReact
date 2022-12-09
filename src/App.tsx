@@ -18,7 +18,8 @@ const posts:Post[]  = [
   {
     id: 1,
     author:{
-      avatarUrl:'https://media-exp1.licdn.com/dms/image/C4E03AQE6_JnND6STTA/profile-displayphoto-shrink_400_400/0/1653591822128?e=1662595200&v=beta&t=-AHYiP-oL2Tabk4jEtPqvVr5Uwe50XF3FlbNFE_qJgI',
+      // avatarUrl:'https://media-exp1.licdn.com/dms/image/C4E03AQE6_JnND6STTA/profile-displayphoto-shrink_400_400/0/1653591822128?e=1662595200&v=beta&t=-AHYiP-oL2Tabk4jEtPqvVr5Uwe50XF3FlbNFE_qJgI',
+      avatarUrl:'https://github.com/fernandazaccarorigolin.png',
       name: 'Fernanda Rigolin',
       role: 'Web Developer'
     },
