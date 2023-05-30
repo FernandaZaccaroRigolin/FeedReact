@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="src/assets/images/IginiteFeed.png"  />
+  <img height="350" src="src/assets/note.png"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="350" src="src/assets/images/IgniteFeedMobile.png"  />
+  <img height="350" src="src/assets/celular.png"  />
 </div>
 
 ###
@@ -46,29 +46,20 @@
 
 ## Rodando o projeto
 
-Clone the project and access the folder.
+Clone o projeto.
 
 ```bash
-$ git clone https://github.com/JoyceFatima/Ignite-Feed.git
-$ cd Ignite-Feed
+$ git clone https://github.com/FernandaZaccaroRigolin/FeedReact.git
+
 ```
 
-Follow the steps below:
+Siga os passos abaixo:
 
 ```bash
-# Install the dependencies
+# Instalação de dependencias
 $ yarn or npm i
-# Start the project
+# Iniciar o projeto
 $ yarn dev or npm run dev
 ```
 
-The app will be available for access on your browser at http://localhost:3000
-
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
----
-
-<p align="center">Made by <a href="https://github.com/JoyceFatima">Joyce de Fátima</a></p>
+O aplicativo estará disponível para acesso em seu navegador em http://localhost:3000
