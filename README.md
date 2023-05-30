@@ -6,6 +6,9 @@
 
 <h1 align="center">Ignite Feed<br><br>Ignite - React da Rocketseat.</h1>
 
+### Sobre
+O projeto tem como objetivo criar uma plataforma onde os usuários possam interagir com postagens, possam curtir, comentar e compartilhar as postagens de outros usuários.
+
 ###
 
 <h3 align="center">Desktop</h3>
